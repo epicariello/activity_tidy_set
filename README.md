@@ -2,7 +2,7 @@
 
 ## Files
 
-- `run_analysis.R` - script that cleans and tidies the data
+- `tidy_creator.R` - script that cleans and tidies the data
 - `CodeBook.md` - describes the variables and transformations
 - `tidy_data.txt` - output data set (created after running the script)
 
